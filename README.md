@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Rishi Thangada 👋
 
-<!--
-**rishithangada/rishithangada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at UT Austin building at the intersection of AI, fintech, and real business.
 
-Here are some ideas to get you started:
+## What I'm Building
+- 🚀 **Rush** — B2B upscaling agency helping local businesses grow through marketing, AI automation, and web
+- 🤖 AI agents and automation systems for real-world business problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- 🔬 Research Intern @ **Tesla** — computer vision, Python, OpenCV
+- 🏥 Software Engineer Intern @ **UT MD Anderson** — automation, Python, SQL
+- 💳 Full Stack Developer @ **Texas FinTech Collective** — built and scaled a fintech MVP
+
+## Tech
+Python · Node.js · SQL · Systems Design · AI/ML · Full Stack Development
+
+## Connect
+[LinkedIn](https://linkedin.com/in/rishithangada)
