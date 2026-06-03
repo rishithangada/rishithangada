@@ -1,18 +1,30 @@
-# Hey, I'm Rishi Thangada 👋
+# Hey, I'm Rishi Thangada
 
-CS student at UT Austin building at the intersection of AI, fintech, and real business.
+I'm a Computer Science student at UT Austin building at the intersection of AI, fintech, automation, and real-world business systems.
+
+I like building products that are practical, useful, and tied to real outcomes — whether that means helping businesses automate work, creating financial intelligence tools, or applying AI to solve messy real-world problems.
 
 ## What I'm Building
-- 🚀 **Rush** — B2B upscaling agency helping local businesses grow through marketing, AI automation, and web
-- 🤖 AI agents and automation systems for real-world business problems
+
+- **Fluxidian** — a financial intelligence platform focused on market research, filtering, personalization, and smarter investment discovery.
+- **Rush** — a B2B growth and automation agency helping local businesses improve marketing, web presence, and operational workflows using AI tools.
+- **AI agents and automation systems** — tools that connect software, data, and business processes to reduce manual work.
 
 ## Experience
-- 🔬 Research Intern @ **Tesla** — computer vision, Python, OpenCV
-- 🏥 Software Engineer Intern @ **UT MD Anderson** — automation, Python, SQL
-- 💳 Full Stack Developer @ **Texas FinTech Collective** — built and scaled a fintech MVP
 
-## Tech
-Python · Node.js · SQL · Systems Design · AI/ML · Full Stack Development
+- **Research Intern @ Tesla** — worked with computer vision, Python, and OpenCV.
+- **Software Engineer Intern @ UT MD Anderson** — built automation and worked with Python, SQL, and enterprise systems.
+- **Full Stack Developer @ Texas FinTech Collective** — helped build and scale a fintech MVP.
+
+## Technical Interests
+
+AI/ML · Fintech · Full Stack Development · Python · SQL · Node.js · Automation · Computer Vision · Systems Design
+
+## Principles
+
+I care about building technology that is useful, ethical, accurate, and understandable. I’m especially interested in products that combine strong engineering with business value.
 
 ## Connect
-[LinkedIn](https://linkedin.com/in/rishithangada)
+
+- LinkedIn: https://www.linkedin.com/in/rishithangada/
+- Portfolio: Coming soon
