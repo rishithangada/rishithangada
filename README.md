@@ -1,30 +1,28 @@
-# Hey, I'm Rishi Thangada
+### Hey, I'm Rishi Thangada
 
-I'm a Computer Science student at UT Austin building at the intersection of AI, fintech, automation, and real-world business systems.
+CS student at UT Austin (Computer Science, minors in Business/McCombs and Statistics & Data Science), building at the intersection of AI, spatial computing, and real-world systems.
 
-I like building products that are practical, useful, and tied to real outcomes — whether that means helping businesses automate work, creating financial intelligence tools, or applying AI to solve messy real-world problems.
+I care about building technology that works in conditions where most software fails, offline, hands-free, and safety-critical, not just in a browser tab.
 
-## What I'm Building
+### What I'm Building
 
-- **Fluxidian** — a financial intelligence platform focused on market research, filtering, personalization, and smarter investment discovery.
-- **Rush** — a B2B growth and automation agency helping local businesses improve marketing, web presence, and operational workflows using AI tools.
-- **AI agents and automation systems** — tools that connect software, data, and business processes to reduce manual work.
+**ORBIT** — an edge-native, offline-first spatial AI operating system for hands-free operation in extreme environments, starting with commercial space stations and defense hardware. Founding this as CEO alongside a technical team.
 
-## Experience
+**AEGIS** — the AI layer within ORBIT, an autonomous environmental awareness and safety system designed to act as a real-time "sixth sense" for operators working in gloved, hands-busy, zero-connectivity conditions.
 
-- **Research Intern @ Tesla** — worked with computer vision, Python, and OpenCV.
-- **Software Engineer Intern @ UT MD Anderson** — built automation and worked with Python, SQL, and enterprise systems.
-- **Full Stack Developer @ Texas FinTech Collective** — helped build and scale a fintech MVP.
+**Fluxidian** — a financial intelligence platform focused on market research, filtering, and smarter investment discovery.
 
-## Technical Interests
+### Relevant Technical Work
 
-AI/ML · Fintech · Full Stack Development · Python · SQL · Node.js · Automation · Computer Vision · Systems Design
+- **cortex-forge** — local-first AI agent and RAG workbench for document intelligence, code/security review, and grounded reporting, built around fully local inference rather than cloud dependency.
+- **appsec-sentinel** — defensive Python toolkit for security headers, threat detection, rate limiting, and audit logging.
+- **codebase-cartographer** — codebase scanner mapping imports, complexity, and risk into an interactive dashboard.
+- Prior computer vision work using Python and OpenCV during a research internship focused on real-world visual systems.
 
-## Principles
+### Technical Interests
 
-I care about building technology that is useful, ethical, accurate, and understandable. I’m especially interested in products that combine strong engineering with business value.
+Edge AI / on-device inference · Computer Vision · Spatial Computing · Systems Design · Security · Python · Automation
 
-## Connect
+### Connect
 
-- LinkedIn: https://www.linkedin.com/in/rishithangada/
-- Portfolio: Coming soon
+LinkedIn: https://www.linkedin.com/in/rishithangada/
