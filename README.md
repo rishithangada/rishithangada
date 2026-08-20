@@ -1,37 +1,37 @@
-### Hey, I'm Rishi Thangada
+## Hi, I'm Rishi
 
-CS student at UT Austin (Computer Science, minors in Business/McCombs and Statistics & Data Science), building at the intersection of AI, spatial computing, and real-world systems.
+I'm a Computer Science student at The University of Texas at Austin, also studying Statistics & Data Science and business.
 
-I care about building technology that works in conditions where most software fails, offline, hands-free, and safety-critical, not just in a browser tab.
+I'm interested in software engineering, AI, and building useful products from idea to implementation. Most of my experience has been across full-stack development, Python, AI systems, and working with product teams.
 
-### Recent Exploration: Edge AI & Spatial Computing
+### What I've worked on
 
-A small series of experiments exploring how far local-first AI has come, real-time perception, spatial tracking, voice interaction, and low-latency systems, all running fully on-device with no cloud dependency:
+At **Texas Convergent**, I worked on a six-person product team building Rootup, a crowdfunding web application for connecting local projects with community backers. I contributed across the stack using React, Node.js, Express, MongoDB, and Stripe's sandbox APIs.
 
-- **[edge-vlm-scene-copilot](https://github.com/rishithangada/edge-vlm-scene-copilot)** — offline vision-language inference, a small VLM describing a live scene in real time with zero network calls at inference.
-- **[spatial-tracking-prototype](https://github.com/rishithangada/spatial-tracking-prototype)** — monocular visual odometry, estimating camera position/motion from a webcam feed using ORB features and essential-matrix pose estimation.
-- **[voice-command-interface](https://github.com/rishithangada/voice-command-interface)** — hands-free control using local Whisper transcription and rule-based intent matching, no touch, no cloud API.
-- **[low-latency-sensor-service](https://github.com/rishithangada/low-latency-sensor-service)** — a lightweight sensor service benchmarking real retrieval and freshness latency for camera/mic input.
+At **Texas FinTech Collective**, I worked with developers, data analysts, and product managers on a fintech MVP, building full-stack features and helping turn product requirements into working software.
 
-### What I'm Building
+I've also worked on software and technology projects involving enterprise systems, automation, computer vision, and AI.
 
-**ORBIT** — an edge-native, offline-first spatial AI operating system for hands-free operation in extreme environments, starting with commercial space stations and defense hardware. Founding this as CEO alongside a technical team.
+### Projects
 
-**AEGIS** — the AI layer within ORBIT, an autonomous environmental awareness and safety system designed to act as a real-time "sixth sense" for operators working in gloved, hands-busy, zero-connectivity conditions.
+**Cortex Forge**  
+A local-first AI platform for document intelligence, RAG, code analysis, security review, and interactive reporting.
 
-**Fluxidian** — a financial intelligence platform focused on market research, filtering, and smarter investment discovery.
+**Codebase Cartographer**  
+A Python tool for analyzing software dependencies, complexity, and architectural risk, with interactive visualizations for exploring a codebase.
 
-### Relevant Technical Work
+I'm also experimenting with smaller projects around local AI, computer vision, automation, and software tooling.
 
-- **cortex-forge** — local-first AI agent and RAG workbench for document intelligence, code/security review, and grounded reporting.
-- **appsec-sentinel** — defensive Python toolkit for security headers, threat detection, rate limiting, and audit logging.
-- **codebase-cartographer** — codebase scanner mapping imports, complexity, and risk into an interactive dashboard.
-- Prior computer vision work using Python and OpenCV during a research internship focused on real-world visual systems.
+### Technologies
 
-### Technical Interests
+Java · Python · JavaScript · SQL · React · Node.js · Express · MongoDB · REST APIs · Git
 
-Edge AI / on-device inference · Computer Vision · Spatial Computing · Voice Interfaces · Systems Design · Security · Python · Automation
+AI/RAG · LLM APIs · MCP · Computer Vision · Automation
 
-### Connect
+### Currently
 
-LinkedIn: https://www.linkedin.com/in/rishithangada/
+I'm continuing to improve my software engineering fundamentals, build projects, and explore how AI can be integrated into practical software systems.
+
+Always happy to learn from other engineers and work on interesting problems.
+
+[LinkedIn](https://www.linkedin.com/in/rishithangada/)
